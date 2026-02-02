@@ -1,4 +1,3 @@
-# 测试 git
 # 用于在selenium自动化中处理各类验证码
 
 #### slider_captcha.py：滑块验证码
